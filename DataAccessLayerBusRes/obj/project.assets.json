@@ -1,11 +1,30 @@
 {
   "version": 3,
   "targets": {
-    "net5.0": {}
+    "net5.0": {
+      "BusinessObjectsBusRes/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v5.0",
+        "compile": {
+          "bin/placeholder/BusinessObjectsBusRes.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/BusinessObjectsBusRes.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "BusinessObjectsBusRes/1.0.0": {
+      "type": "project",
+      "path": "../BusinessObjectsBusRes/BusinessObjectsBusRes.csproj",
+      "msbuildProject": "../BusinessObjectsBusRes/BusinessObjectsBusRes.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net5.0": []
+    "net5.0": [
+      "BusinessObjectsBusRes >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Syed Nawas Ahamed\\.nuget\\packages\\": {},
@@ -14,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Syed Nawas Ahamed\\source\\repos\\BusReservation\\DataAccessLayerBusRes\\DataAccessLayerBusRes.csproj",
+      "projectUniqueName": "F:\\LNT_Kishorekumar\\DataAccessLayerBusRes\\DataAccessLayerBusRes.csproj",
       "projectName": "DataAccessLayerBusRes",
-      "projectPath": "C:\\Users\\Syed Nawas Ahamed\\source\\repos\\BusReservation\\DataAccessLayerBusRes\\DataAccessLayerBusRes.csproj",
+      "projectPath": "F:\\LNT_Kishorekumar\\DataAccessLayerBusRes\\DataAccessLayerBusRes.csproj",
       "packagesPath": "C:\\Users\\Syed Nawas Ahamed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Syed Nawas Ahamed\\source\\repos\\BusReservation\\DataAccessLayerBusRes\\obj\\",
+      "outputPath": "F:\\LNT_Kishorekumar\\DataAccessLayerBusRes\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -37,7 +56,11 @@
       "frameworks": {
         "net5.0": {
           "targetAlias": "net5.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "F:\\LNT_Kishorekumar\\BusinessObjectsBusRes\\BusinessObjectsBusRes.csproj": {
+              "projectPath": "F:\\LNT_Kishorekumar\\BusinessObjectsBusRes\\BusinessObjectsBusRes.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

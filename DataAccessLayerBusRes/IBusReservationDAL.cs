@@ -1,9 +1,11 @@
 ﻿using System;
+using BusinessObjectsBusRes;
+using System.Collections.Generic;
 
 namespace DataAccessLayerBusRes
 {
     public interface IBusReservationDAL
     {
-        //No Signatures
+        public List<Bus> GetBuses();
     }
 }

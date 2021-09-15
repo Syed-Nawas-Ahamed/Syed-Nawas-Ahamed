@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Syed Nawas Ahamed\\source\\repos\\BusReservation\\BusinessObjectsBusRes\\BusinessObjectsBusRes.csproj": {}
+    "F:\\LNT_Kishorekumar\\BusinessObjectsBusRes\\BusinessObjectsBusRes.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Syed Nawas Ahamed\\source\\repos\\BusReservation\\BusinessObjectsBusRes\\BusinessObjectsBusRes.csproj": {
+    "F:\\LNT_Kishorekumar\\BusinessObjectsBusRes\\BusinessObjectsBusRes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Syed Nawas Ahamed\\source\\repos\\BusReservation\\BusinessObjectsBusRes\\BusinessObjectsBusRes.csproj",
+        "projectUniqueName": "F:\\LNT_Kishorekumar\\BusinessObjectsBusRes\\BusinessObjectsBusRes.csproj",
         "projectName": "BusinessObjectsBusRes",
-        "projectPath": "C:\\Users\\Syed Nawas Ahamed\\source\\repos\\BusReservation\\BusinessObjectsBusRes\\BusinessObjectsBusRes.csproj",
+        "projectPath": "F:\\LNT_Kishorekumar\\BusinessObjectsBusRes\\BusinessObjectsBusRes.csproj",
         "packagesPath": "C:\\Users\\Syed Nawas Ahamed\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Syed Nawas Ahamed\\source\\repos\\BusReservation\\BusinessObjectsBusRes\\obj\\",
+        "outputPath": "F:\\LNT_Kishorekumar\\BusinessObjectsBusRes\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

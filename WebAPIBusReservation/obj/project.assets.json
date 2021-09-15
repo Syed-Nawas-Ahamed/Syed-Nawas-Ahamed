@@ -199,11 +199,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Syed Nawas Ahamed\\source\\repos\\BusReservation\\WebAPIBusReservation\\WebAPIBusReservation.csproj",
+      "projectUniqueName": "F:\\LNT_Kishorekumar\\WebAPIBusReservation\\WebAPIBusReservation.csproj",
       "projectName": "WebAPIBusReservation",
-      "projectPath": "C:\\Users\\Syed Nawas Ahamed\\source\\repos\\BusReservation\\WebAPIBusReservation\\WebAPIBusReservation.csproj",
+      "projectPath": "F:\\LNT_Kishorekumar\\WebAPIBusReservation\\WebAPIBusReservation.csproj",
       "packagesPath": "C:\\Users\\Syed Nawas Ahamed\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Syed Nawas Ahamed\\source\\repos\\BusReservation\\WebAPIBusReservation\\obj\\",
+      "outputPath": "F:\\LNT_Kishorekumar\\WebAPIBusReservation\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

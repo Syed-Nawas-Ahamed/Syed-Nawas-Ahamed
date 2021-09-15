@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "LBHZB7+hk9nvkhz5aenB953zTbMpEEoSg4+iqOfwdhxadZgh3a1mT9DBd/Zeb2Mi1bTGwZUzEHc1UCkL5Reg3A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Syed Nawas Ahamed\\source\\repos\\BusReservation\\WebAPIBusReservation\\WebAPIBusReservation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Syed Nawas Ahamed\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Syed Nawas Ahamed\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Syed Nawas Ahamed\\.nuget\\packages\\swashbuckle.aspnetcore\\5.6.3\\swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "C:\\Users\\Syed Nawas Ahamed\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\5.6.3\\swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "C:\\Users\\Syed Nawas Ahamed\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\5.6.3\\swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "C:\\Users\\Syed Nawas Ahamed\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\5.6.3\\swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
